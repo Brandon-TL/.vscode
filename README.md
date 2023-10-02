@@ -81,7 +81,7 @@
   ![image](https://user-images.githubusercontent.com/74066973/221097738-f6fb5d60-8d37-4629-9544-7785b740e3a7.png)  
 
 # <sub><sub>*JavaScript (ES6) code snippet*</sub>
-  11M, up to you.
+  11M... up to you.
   [Marketplace](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | 
   [Repository](https://github.com/xabikos/vscode-javascript)
   
